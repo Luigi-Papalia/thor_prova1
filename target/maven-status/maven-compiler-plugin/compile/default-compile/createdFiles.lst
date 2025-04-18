@@ -1,0 +1,5 @@
+com\vulnerableapp\vulnerable_java_app\controller\UserController.class
+com\vulnerableapp\vulnerable_java_app\VulnerableJavaAppApplication.class
+com\vulnerableapp\vulnerable_java_app\model\User.class
+com\vulnerableapp\vulnerable_java_app\service\UserService.class
+com\vulnerableapp\vulnerable_java_app\repository\UserRepository.class
