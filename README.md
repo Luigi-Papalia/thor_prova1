@@ -2,7 +2,7 @@
 Scanned directory: `./javascript-backdoor-main` with `8` threads
 
 - **Total unique IOCs:** 43
-> [!NOTE]
+> :warning: **If you are using mobile browser**: Be very careful here!
 ## [!CAUTION] Match found (file: `./javascript-backdoor-main\malware.txt`)
 
 - **IOC Value:** `Protokoll-0159057142.doc|d95f360cfa3bb3c38623954a03d46417a5cc89775770880d2f826b9e8fa515a5`
