@@ -2,8 +2,8 @@
 Scanned directory: `./javascript-backdoor-main` with `8` threads
 
 - **Total unique IOCs:** 43
-> :warning: **If you are using mobile browser**: Be very careful here!
-## [!CAUTION] Match found (file: `./javascript-backdoor-main\malware.txt`)
+
+## :warning: Alert: Match found (file: `./javascript-backdoor-main\malware.txt`)
 
 - **IOC Value:** `Protokoll-0159057142.doc|d95f360cfa3bb3c38623954a03d46417a5cc89775770880d2f826b9e8fa515a5`
 - **IOC Type:** filename|sha256
@@ -22,7 +22,7 @@ Scanned directory: `./javascript-backdoor-main` with `8` threads
 - **Distribution:** 3
 - **Organization:** CIRCL
 
-## [!CAUTION] Match found (file: `./javascript-backdoor-main\server.js`)
+## :warning: Alert: Match found (file: `./javascript-backdoor-main\server.js`)
 
 - **IOC Value:** `brozblagrom-c2.com`
 - **IOC Type:** domain
@@ -41,7 +41,7 @@ Scanned directory: `./javascript-backdoor-main` with `8` threads
 - **Distribution:** 3
 - **Organization:** CIRCL
 
-## [!CAUTION] Match found (file: `./javascript-backdoor-main\server.js`)
+## :warning: Alert: Match found (file: `./javascript-backdoor-main\server.js`)
 
 - **IOC Value:** `0.0.0.0`
 - **IOC Type:** ip-dst
@@ -60,7 +60,7 @@ Scanned directory: `./javascript-backdoor-main` with `8` threads
 - **Distribution:** 3
 - **Organization:** CthulhuSPRL.be
 
-## [!CAUTION] Match found (file: `./javascript-backdoor-main\server.js`)
+## :warning: Alert: Match found (file: `./javascript-backdoor-main\server.js`)
 
 - **IOC Value:** `0.0.0.0`
 - **IOC Type:** ip-dst
